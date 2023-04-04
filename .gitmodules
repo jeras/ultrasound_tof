@@ -1,0 +1,3 @@
+[submodule "submodules/python-deltasigma"]
+	path = submodules/python-deltasigma
+	url = git@github.com:Y-F-Acoustics/python-deltasigma.git
